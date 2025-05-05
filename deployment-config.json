@@ -2,7 +2,7 @@
     "type": "sftp",
     "host": "example.com",
     "username": "root",
-    "password": "hunter22",
+    "password": "mhunter22",
     "port": 22,
     "remotePath": "/var/www",
     "uploadOnSave": true
